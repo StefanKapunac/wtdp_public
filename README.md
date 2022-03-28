@@ -34,7 +34,7 @@ pypy vns.py <DIR_PATH> <NAME_MASK> <KMIN> <KMAX_FUNC (logn/sqrtn/ndiv5/ndiv10)> 
 | --------- | ----------- |
 | <DIR_PATH> | path to directory with instances |
 | <NAME_MASK> | use only instances whose name contains <NAME_MASK> |
-| <KMIN> | minimal neighborhood k_min |
+| \<KMIN\> | minimal neighborhood k_min |
 | <KMAX_FUNC> | allowed functions are logn, sqrtn, ndiv5 and ndiv10 |
 | <KMAX_MAX> | maximal value for k_max, k_max = min(KMAX_FUNC, KMAX_MAX) |
 | <NUM_ITERS> | maximal number of iterations |
