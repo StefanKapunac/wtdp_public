@@ -1,1 +1,0 @@
-pypy "../../src/vns.py" "../../instances/Snap/preprocessed" ""  "ndiv5" 20  3900 1800 1
