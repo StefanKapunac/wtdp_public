@@ -1,6 +1,6 @@
 # Variable Neighborhood Search for Weighted Total Domination Problem and Its Application in Social Network Information Spreading
 
-This is a public repo containing source code, instances, results and supplementary material from the paper 'Variable Neighborhood Search for the Weighted Total Domination Problem and Its Application in Social Network Information Spreading' by Stefan Kapunac, Aleksandar Kartelj and Marko Djukanovic.
+This is a public repo containing source code, instances, results and supplementary material from the paper 'Variable Neighborhood Search for Weighted Total Domination Problem and Its Application in Social Network Information Spreading' by Stefan Kapunac, Aleksandar Kartelj and Marko Djukanovic.
 
 ## Contents
 - doc - contains the main paper and supplementary pdf;
